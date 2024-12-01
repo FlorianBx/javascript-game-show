@@ -41,7 +41,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -67,7 +67,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -93,7 +93,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -119,7 +119,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -145,7 +145,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -171,7 +171,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -197,7 +197,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -223,7 +223,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -249,7 +249,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -275,7 +275,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -312,7 +312,7 @@ transition: slide-up
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 consolee.log('Bonjour')
 ```
 
@@ -337,7 +337,7 @@ consolee.log('Bonjour')
     <span class="text-sm font-medium text-emerald-400">Round 2</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 2</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -345,7 +345,7 @@ consolee.log('Bonjour')
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 let age = 18
 if ((age = 20)) {
   console.log('Vous avez 20 ans')
@@ -381,7 +381,7 @@ if ((age = 20)) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 function calculeraire(largeur, longeur) {
     retun largeur * longeur;
 }
@@ -416,7 +416,7 @@ function calculeraire(largeur, longeur) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 for (let i = 0; i < 5: i++) {
     console.log(i);
 }
@@ -451,7 +451,7 @@ for (let i = 0; i < 5: i++) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 let fruits = ["pomme", "poire" "orange"];
 ```
 
@@ -476,7 +476,7 @@ let fruits = ["pomme", "poire" "orange"];
     <span class="text-sm font-medium text-emerald-400">Round 2</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 6</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -484,7 +484,7 @@ let fruits = ["pomme", "poire" "orange"];
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'150px'}
 function direBonjour() {
   let nom = Alice
   console.log('Bonjour ' + nom)
@@ -512,7 +512,7 @@ function direBonjour() {
     <span class="text-sm font-medium text-emerald-400">Round 2</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 7</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -520,7 +520,7 @@ function direBonjour() {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 let number = '123'
 console.log(number + 5)
 ```
@@ -546,7 +546,7 @@ console.log(number + 5)
     <span class="text-sm font-medium text-emerald-400">Round 2</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 8</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -554,7 +554,7 @@ console.log(number + 5)
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 const resultat == 10;
 ```
 
@@ -579,7 +579,7 @@ const resultat == 10;
     <span class="text-sm font-medium text-emerald-400">Round 2</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 9</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -587,7 +587,7 @@ const resultat == 10;
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 let user = {
     nom: "Pierre"
     age: 25
@@ -615,7 +615,7 @@ let user = {
     <span class="text-sm font-medium text-emerald-400">Round 2</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 10</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -623,7 +623,7 @@ let user = {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'130px'}
 function multiplier(a, b) {
     return a * b;
 }}
@@ -661,7 +661,7 @@ function multiplier(a, b) {
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 1</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -669,7 +669,7 @@ function multiplier(a, b) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 l_t message = "Bonjour";
 cons_le.l_g(message);
 ```
@@ -705,7 +705,7 @@ cons_le.l_g(message);
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 2</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -713,7 +713,7 @@ cons_le.l_g(message);
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'100px'}
 func_____ calculerDouble(nombre) {
     ret___ nombre * 2;
 }
@@ -745,7 +745,7 @@ func_____ calculerDouble(nombre) {
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 3</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -753,7 +753,7 @@ func_____ calculerDouble(nombre) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'130px'}
 const a__ = 25
 if (a__ > __) {
   console.log('Plus grand que 20')
@@ -799,7 +799,7 @@ if (a__ > __) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'130px'}
 f_r (let i = 0; i < 5; i++) {
     console.log(_);
 }
@@ -831,17 +831,17 @@ f_r (let i = 0; i < 5; i++) {
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 5</h3>
       <p class="mt-4 text-xl text-zinc-400">
-        Complétez le code manquant :
+        Complétez le code manquant et affichez le 2ème élément du tableau :
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
-const no_____ = ['un', 'deux', 'trois']
-console.log(no_____[_])
+```javascript {monaco-run}{height:'130px'}
+const nu____ = ['un', 'deux', 'trois']
+console.log(nu____[_])
 ```
 
 </div>
@@ -875,7 +875,7 @@ console.log(no_____[_])
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 6</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -883,10 +883,10 @@ console.log(no_____[_])
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
-const pr__ = 'Marie'
+```javascript {monaco-run}{height:'130px'}
+const n__e = 'Marie'
 const age = __
-console.log(`Je m'appelle ${pr__} et j'ai ${___} ans`)
+console.log(`Je m'appelle ${name} et j'ai ${___} ans`)
 ```
 
 </div>
@@ -925,7 +925,7 @@ console.log(`Je m'appelle ${pr__} et j'ai ${___} ans`)
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 7</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -933,8 +933,8 @@ console.log(`Je m'appelle ${pr__} et j'ai ${___} ans`)
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
-const c_____ = (x, y) _ x + y;
+```javascript {monaco-run}{height:'130px'}
+const add = (x, y) __ x + y;
 ```
 
 </div>
@@ -963,7 +963,7 @@ const c_____ = (x, y) _ x + y;
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 8</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -971,10 +971,10 @@ const c_____ = (x, y) _ x + y;
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
-const estMajeur = a__ > __
-if (_________) {
-  console.log('Majeur')
+```javascript {monaco-run}{height:'130px'}
+const isAuthenticated = ____
+if (________________) {
+  console.log('Authentifié')
 }
 ```
 
@@ -1009,7 +1009,7 @@ if (_________) {
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 9</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -1017,7 +1017,7 @@ if (_________) {
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'130px'}
 const fruits = []
 fruits.p___('pomme')
 fruits.p___('poire')
@@ -1049,7 +1049,7 @@ fruits.p___('poire')
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-6">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 10</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -1057,12 +1057,14 @@ fruits.p___('poire')
       </p>
       <div class="mt-6">
 
-```javascript {monaco-run}
+```javascript {monaco-run}{height:'130px'}
 const voiture = {
   mar___: 'Renault',
   mod___: 'Clio',
   ann__: 2020,
 }
+
+console.log(voiture.___que)
 ```
 
 </div>
@@ -1119,6 +1121,14 @@ html.dark {
 
 input::placeholder {
   @apply text-zinc-600;
+}
+
+.slidev-code-wrapper .monaco-editor {
+  min-height: 300px !important; 
+}
+
+.monaco-run .slidev-code-wrapper .monaco-editor {
+  min-height: 400px !important;
 }
 
 .monaco-editor {
