@@ -43,21 +43,25 @@ onSlideLeave(() => {
 
 <template>
   <div
-    class="fixed top-4 right-4 flex items-center gap-2 bg-gray-800/75 backdrop-blur p-4 rounded-lg shadow-lg"
+    class="fixed top-4 right-4 flex items-center gap-3 bg-zinc-900/50 backdrop-blur px-6 py-4 rounded-xl ring-1 ring-zinc-700/50"
   >
     <div :class="[timerColor, 'i-lucide-alarm-clock text-2xl']" />
-    <span :class="[timerColor, 'font-mono text-2xl font-bold']">{{ timeString }}</span>
-    <button
-      @click="toggleTimer"
-      class="ml-2 px-2 py-1 bg-gray-700 rounded hover:bg-gray-600 transition-colors"
-    >
-      {{ isRunning ? '⏸' : '▶️' }}
-    </button>
-    <button
-      @click="resetTimer"
-      class="ml-2 px-2 py-1 bg-gray-700 rounded hover:bg-gray-600 transition-colors"
-    >
-      🔄
-    </button>
+    <span :class="[timerColor, 'font-mono text-2xl font-medium text-zinc-200']">
+      {{ timeString }}
+    </span>
+    <div class="flex items-center gap-2 ml-2">
+      <button
+        @click="toggleTimer"
+        class="px-3 py-2 bg-zinc-800/50 rounded-lg hover:bg-zinc-700/50 transition-colors ring-1 ring-zinc-700/50 text-zinc-200"
+      >
+        {{ isRunning ? '⏸' : '▶️' }}
+      </button>
+      <button
+        @click="resetTimer"
+        class="px-3 py-2 bg-zinc-800/50 rounded-lg hover:bg-zinc-700/50 transition-colors ring-1 ring-zinc-700/50 text-zinc-200"
+      >
+        🔄
+      </button>
+    </div>
   </div>
 </template>

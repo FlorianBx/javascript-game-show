@@ -486,7 +486,7 @@ let fruits = ["pomme", "poire" "orange"];
 
 ```javascript {monaco-run}
 function direBonjour() {
-  let nom = 'Alice'
+  let nom = Alice
   console.log('Bonjour ' + nom)
 }
 ```
@@ -791,7 +791,7 @@ if (a__ > __) {
     <span class="text-sm font-medium text-emerald-400">Round 3</span>
   </div>
 
-  <div class="mt-16">
+  <div class="mt-8">
     <div class="rounded-2xl bg-zinc-900/50 p-8 backdrop-blur">
       <h3 class="text-2xl font-medium text-white">Question 4</h3>
       <p class="mt-4 text-xl text-zinc-400">
@@ -800,8 +800,8 @@ if (a__ > __) {
       <div class="mt-6">
 
 ```javascript {monaco-run}
-f_r (let i = 0; i < 5; i__) {
-    console.log(i);
+f_r (let i = 0; i < 5; i++) {
+    console.log(_);
 }
 ```
 
@@ -1123,6 +1123,6 @@ input::placeholder {
 
 .monaco-editor {
   @apply overflow-hidden rounded-xl border border-zinc-800/50;
-  min-height: 150px;
+  min-height: 350px;
 }
 </style>
