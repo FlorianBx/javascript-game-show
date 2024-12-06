@@ -197,7 +197,7 @@ transition: slide-up
       </p>
       <div class="mt-8">
 
-```javascript {monaco-run}{height:'100px'}
+```javascript {monaco}{height:'100px'}
 // Écrivez votre réponse ici...
 ```
 
@@ -988,11 +988,6 @@ if (________________) {
         <input 
           type="text" 
           placeholder="2ème mot manquant" 
-          class="rounded-xl bg-zinc-800/50 px-6 py-4 text-lg text-zinc-200 placeholder-zinc-600 outline-none ring-1 ring-zinc-700/50 transition-all focus:ring-2 focus:ring-emerald-500/50"
-        />
-        <input 
-          type="text" 
-          placeholder="3ème mot manquant" 
           class="rounded-xl bg-zinc-800/50 px-6 py-4 text-lg text-zinc-200 placeholder-zinc-600 outline-none ring-1 ring-zinc-700/50 transition-all focus:ring-2 focus:ring-emerald-500/50"
         />
       </div>
