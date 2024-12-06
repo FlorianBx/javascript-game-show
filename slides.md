@@ -890,7 +890,7 @@ console.log(`Je m'appelle ${name} et j'ai ${___} ans`)
 ```
 
 </div>
-      <div class="mt-8 grid grid-cols-4 gap-4">
+      <div class="mt-8 grid grid-cols-3 gap-4">
         <input 
           type="text" 
           placeholder="1er mot manquant" 
@@ -904,11 +904,6 @@ console.log(`Je m'appelle ${name} et j'ai ${___} ans`)
         <input 
           type="text" 
           placeholder="3ème mot manquant" 
-          class="rounded-xl bg-zinc-800/50 px-6 py-4 text-lg text-zinc-200 placeholder-zinc-600 outline-none ring-1 ring-zinc-700/50 transition-all focus:ring-2 focus:ring-emerald-500/50"
-        />
-        <input 
-          type="text" 
-          placeholder="4ème mot manquant" 
           class="rounded-xl bg-zinc-800/50 px-6 py-4 text-lg text-zinc-200 placeholder-zinc-600 outline-none ring-1 ring-zinc-700/50 transition-all focus:ring-2 focus:ring-emerald-500/50"
         />
       </div>
